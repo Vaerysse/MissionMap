@@ -13,3 +13,5 @@ Etudiants:
 - M. Sébastien MAILLOS
 - Mme. Ariana Carnielli Abranches RAMOS
 - M. Rabah HADJEBAR
+
+Afin de ne pas gonfler le git inutilement et ne pas rendre téléchargable des données personnels, les plus gros documents (vidéo interview etc...) sont disposer ici: https://drive.google.com/drive/folders/1G7YoG9OuuyoKgXTwnOYRq3YscJkVsr3S?usp=sharing
