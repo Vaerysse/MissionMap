@@ -1,0 +1,36 @@
+Persona 1:
+Scénario 1:
+
+1- P1 est en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
+Attention: il souhaite que cela correspond à ces gouts.
+2- Dans l'application il a pu renseigner au préalable ses gouts afin que les propositions soit plus spécifique à son profil.
+3- Il lance l'aplication (connecté à un réseau/wifi).
+4- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
+5- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P1 en prenant en compte son profil
+6- P1 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+7- Une map apparait afin de la guider jusqu'au lieu choisis.
+
+Persona 2:
+Scénario 1:
+
+1- P2 et ça famille est en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
+Attention: il souhaite que cela peut êrte fait avec toute la famille.
+2- Dans l'application il a pu renseigner au préalable qu'il était en famille avec des enfants.
+3- Il lance l'aplication (connecté à un réseau/wifi).
+4- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
+5- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P2 en prenant en compte son profil famille
+6- P1 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+7- Une map apparait afin de la guider jusqu'au lieu choisis.
+
+
+
+Persona 3:
+Scénario 1:
+
+1- P3 en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
+Attention: Pas d'attente particuliére il souhaite découvrir
+2- Il lance l'aplication (connecté à un réseau/wifi).
+3- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
+4- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P3
+5- P1 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+6- Une map apparait afin de la guider jusqu'au lieu choisis.
