@@ -1,7 +1,7 @@
 Persona 1:
 Scénario 1:
 
-1- P1 est en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
+1- P1 est en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autour de lui.
 Attention: il souhaite que cela correspond à ces gouts.
 2- Dans l'application il a pu renseigner au préalable ses gouts afin que les propositions soit plus spécifique à son profil.
 3- Il lance l'aplication (connecté à un réseau/wifi).
@@ -14,12 +14,12 @@ Persona 2:
 Scénario 1:
 
 1- P2 et ça famille est en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
-Attention: il souhaite que cela peut êrte fait avec toute la famille.
+Attention: il souhaite que cela peut être fait avec toute la famille.
 2- Dans l'application il a pu renseigner au préalable qu'il était en famille avec des enfants.
 3- Il lance l'aplication (connecté à un réseau/wifi).
 4- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
 5- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P2 en prenant en compte son profil famille
-6- P1 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+6- P2 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
 7- Une map apparait afin de la guider jusqu'au lieu choisis.
 
 
@@ -27,10 +27,31 @@ Attention: il souhaite que cela peut êrte fait avec toute la famille.
 Persona 3:
 Scénario 1:
 
-1- P3 en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autourd de lui.
+1- P3 en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autour de lui.
 Attention: Pas d'attente particuliére il souhaite découvrir
 2- Il lance l'aplication (connecté à un réseau/wifi).
 3- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
 4- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P3
-5- P1 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+5- P3 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
 6- Une map apparait afin de la guider jusqu'au lieu choisis.
+
+
+Persona 4:
+Scénario 1:
+
+1- P4 en visite dans un endroit X et il souhaite savoir ce qu'il y a as visiter autour de lui.
+Attention: Va chercher les interactions les mieux notés
+2- Il lance l'aplication (connecté à un réseau/wifi).
+3- L'application detecte ou il se trouve et affiche une map de l'endroit en signalant ça possition à l'écran.
+4- l'application affiche dans un rayon (que l'on peux délimité) l'ensembles des activités/lieu a visiter autour de P4 et fait apparaitre la note utilisateur donné a chaque endroit
+5- P4 regarde les diffférentes proposition puis selectionne ou il souhaite se rendre
+6- Une map apparait afin de la guider jusqu'au lieu choisis.
+7- Arriver sur place, P4 selection le partage de ça position afin de l'envoyer sur les reseaux sociaux 
+
+Scénario2:
+
+1- P4 vien de visité un endroit recommander par l'application
+2- Il lance l'aplication (connecté à un réseau/wifi).
+3- Il selection le lieu qu'il viens de visité et saisis une note ainsi qu'un commentaire (si il en a envie)
+4- Il envois aussi, via l'application ça note et son commantaire sur les réseaux sociaux.
+
