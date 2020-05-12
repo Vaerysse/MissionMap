@@ -14,7 +14,9 @@ Etudiants:
 - Mme. Ariana Carnielli Abranches RAMOS
 - M. Rabah HADJEBAR
 
-Afin de ne pas gonfler le git inutilement et ne pas rendre téléchargable des données personnels, les plus gros documents (vidéo interview etc...) sont disposer ici: https://drive.google.com/drive/folders/1G7YoG9OuuyoKgXTwnOYRq3YscJkVsr3S?usp=sharing
+Les vidéos étant trop volumineuse pour le épôt, celle-ci sont stockées dans un dossier google drive accessible ici : https://drive.google.com/drive/folders/1G7YoG9OuuyoKgXTwnOYRq3YscJkVsr3S?usp=sharing
 
-Vidéo 1 au drive car fichier trop grand pour GitHub
+La vidéo 1 (VIDEO1_version_finale) met en avant la fonctionnalité de personnalisation de l'application, et l'un des cadres dans lequel l'utilisé (ici proposer un restaurant et indiquer la route à suivre). Elle présente aussi une fonctionalité relier au lunette (ou autre appareil connecté) afin d'indiquer la route à suivre sans avoir besoin de sortir constament son téléphone.
+
+La vidéo 2 (VIDEO2_final) présente l'une des fonctionnalité phare de l'application, c'est a dire la création d'un parcours pour des visites touristiques durant un temps défini (par l'utilisatteur). Il sera alors proposé à l'utilisateur un trajet afin de rejoindre une zone/ un batiment touristique selon sont profil. A la fin de la visite suite à une validation uttilisateur, si il reste du temps un nouveau point de visite lui sera proposé et ainsi de suite juqu'à la fin du temps impartie.
 
